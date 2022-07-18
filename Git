@@ -1,1 +1,2 @@
 Uma mensagem HTTP é formada pelo Request ou Status line, Header Line, assim como a Entity. Dentro do Entity são definidos o entity header e entity body. Com relação a estes dois campos é correto afirmar que: #773
+ O entity header possui os metadados relacionados ao payload, contido no entity body, que está sendo enviado/recebido pelo servidor.
