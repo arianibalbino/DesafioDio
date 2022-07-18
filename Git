@@ -1,0 +1,1 @@
+Uma mensagem HTTP é formada pelo Request ou Status line, Header Line, assim como a Entity. Dentro do Entity são definidos o entity header e entity body. Com relação a estes dois campos é correto afirmar que: #773
